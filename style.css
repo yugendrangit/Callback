@@ -1,0 +1,12 @@
+span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 250px auto;
+}
+body{
+    background-color: rgb(235, 191, 111);
+    color: blue;
+    font-size: 4em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
